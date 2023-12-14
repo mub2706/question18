@@ -1,0 +1,5 @@
+<resources>
+    <string name="title">About</string>
+    <string name="message">This application computes the total amount including taxes.</string>
+    <string name="ok_button">OK</string>
+</resources>
